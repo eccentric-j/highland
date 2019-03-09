@@ -1,6 +1,6 @@
 {
-  "name": "highland",
-  "version": "3.0.0-beta.9",
+  "name": "@eccentric-j/highland",
+  "version": "0.1.0",
   "description": "The high-level streams library",
   "main": "lib/index.js",
   "files": [
@@ -8,11 +8,12 @@
     "lib"
   ],
   "homepage": "http://highlandjs.org/",
-  "bugs": "https://github.com/caolan/highland/issues",
+  "bugs": "https://github.com/eccentric-j/highland/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/caolan/highland.git"
+    "url": "https://github.com/eccentric-j/highland.git"
   },
+  "private": false,
   "license": "Apache-2.0",
   "devDependencies": {
     "bluebird": "^3.3.5",
